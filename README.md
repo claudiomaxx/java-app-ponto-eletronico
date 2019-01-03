@@ -2,5 +2,5 @@
 
 # java-app-ponto-eletronico
 
-Built using Spring Boot
-
+Spring Boot
+Travis CI
