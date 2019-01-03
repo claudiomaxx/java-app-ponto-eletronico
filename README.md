@@ -2,5 +2,5 @@
 
 # java-app-ponto-eletronico
 
-Spring Boot
-Travis CI
+- Spring Boot
+- Travis CI
